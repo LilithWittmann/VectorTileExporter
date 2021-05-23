@@ -9,4 +9,6 @@ In this repository there are two scripts, that allow you to download and parse w
 - `scraper.py` - helps you in downloading vector tiles from a map server inside certain boundaries;
 - `parser.py ` - parses layers out of the downloaded vector tiles and converts them into [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON).
 
+Before use those scripts [install requirements using PIP](https://pip.pypa.io/en/latest/user_guide/#requirements-files).
+
 **NOTE:** This is only a proof of concept 😉.
